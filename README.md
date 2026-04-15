@@ -13,7 +13,7 @@
 `AWS` `Docker` `Terraform` `Ansible` `Jenkins` `CI/CD` `Git` `Linux`
 
 **Programação**
-`Python` `Bash` `JavaScript` `Node.js` `PowerShell`
+`Python` `Bash` `JavaScript` `Node.js` `React` `PowerShell`
 
 **BI & Low-Code**
 `Power BI` `Power Apps` `Power Automate`
