@@ -1,18 +1,18 @@
-# Hi, I'm Juan 👋
+# Olá, eu sou o Juan 👋
 
-**Data Engineer** with experience in large-scale corporate environments, specializing in data pipelines, analytical modeling, and cloud infrastructure. Currently building public projects in the **modern data stack** (Snowflake · dbt · Airflow · AWS · Terraform).
+**Engenheiro de Dados** com experiência em ambientes corporativos de grande porte, especializado em pipelines de dados, modelagem analítica e infraestrutura cloud. Atualmente construindo projetos públicos com o **modern data stack** (Snowflake · dbt · Airflow · AWS · Terraform).
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Stack Técnica
 
-**Data**
-`SQL` `Snowflake` `dbt` `Apache Airflow` `Databricks` `ETL/ELT` `Dimensional Modeling` `AWS Athena` `AWS S3`
+**Dados**
+`SQL` `Snowflake` `dbt` `Apache Airflow` `Databricks` `ETL/ELT` `Modelagem Dimensional` `AWS Athena` `AWS S3`
 
 **Cloud & DevOps**
 `AWS` `Docker` `Terraform` `Ansible` `Jenkins` `CI/CD` `Git` `Linux`
 
-**Programming**
+**Programação**
 `Python` `Bash` `JavaScript` `Node.js` `PowerShell`
 
 **BI & Low-Code**
@@ -20,44 +20,44 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
-| Project | Stack | Status |
+| Projeto | Stack | Status |
 |---|---|---|
-| [🔗 ELT Pipeline: Snowflake + dbt + Airflow](https://github.com/juansrodrigues/pipeline-elt-aneel) | Python · Snowflake · dbt · Airflow · AWS S3 | 🔨 Building |
-| [🔗 AWS Data Lake with Terraform](https://github.com/juansrodrigues/aws-datalake-terraform) | Terraform · AWS S3 · Lambda · Athena · IAM | 📋 Planned |
-| [🔗 Business Impact Analysis — Energy Sector](https://github.com/juansrodrigues/energy-data-analysis) | Python · SQL · Pandas · Power BI | 📋 Planned |
-| [🔗 Monitoring Stack: Docker + Ansible + Grafana](https://github.com/juansrodrigues/monitoring-stack) | Docker · Ansible · Prometheus · Grafana | 📋 Planned |
+| [🔗 Pipeline ELT: Snowflake + dbt + Airflow](https://github.com/juansrodrigues/pipeline-elt-aneel) | Python · Snowflake · dbt · Airflow · AWS S3 | 🔨 Em construção |
+| [🔗 Data Lake na AWS com Terraform](https://github.com/juansrodrigues/aws-datalake-terraform) | Terraform · AWS S3 · Lambda · Athena · IAM | 📋 Planejado |
+| [🔗 Análise de Impacto — Setor de Energia](https://github.com/juansrodrigues/energy-data-analysis) | Python · SQL · Pandas · Power BI | 📋 Planejado |
+| [🔗 Stack de Monitoramento: Docker + Ansible + Grafana](https://github.com/juansrodrigues/monitoring-stack) | Docker · Ansible · Prometheus · Grafana | 📋 Planejado |
 
 ---
 
-## 💼 Professional Background
+## 💼 Experiência Profissional
 
-- **Senior Data Analyst** @ Grupo Equatorial Energia *(Jan 2025 – Present)*
-  Led an analytical initiative that generated **BRL 4M in additional revenue** for Maranhão state through Snowflake + dbt solutions.
+- **Analista de Dados Pleno** @ Grupo Equatorial Energia *(Jan 2025 – Presente)*
+  Liderou iniciativa analítica que gerou **R$ 4 milhões de incremento na arrecadação** do Maranhão por meio de soluções em Snowflake + dbt.
 
-- **Data & Analytics Trainee** @ Grupo Equatorial Energia *(Dec 2023 – Dec 2024)*
-  Built gamified KPI dashboards and automated operational monitoring routines.
+- **Trainee Superior** @ Grupo Equatorial Energia *(Dez 2023 – Dez 2024)*
+  Criou dashboards analíticos gamificados com ranking entre distribuidoras e automatizou rotinas de monitoramento de KPIs operacionais.
 
-- **Power Platform Developer / Consultant** @ Eng DTP & Multimídia *(May 2021 – Mar 2023)*
-  Enterprise apps and workflow automation for Bosch, Sicoob, Syngenta, Alvean, and Ajinomoto.
-
----
-
-## 📚 Currently
-
-- 🎓 Graduate Degree in **DevOps & Cloud Architecture** — FIAP (2026–2027)
-- 🔨 Building: **ELT Pipeline with Snowflake + dbt + Airflow**
-- 📖 Studying: **Apache Airflow** and **AWS Solutions Architect Associate**
-- 🎯 Next cert: **dbt Certified Developer**
+- **Desenvolvedor / Consultor Power Platform** @ Eng DTP & Multimídia *(Mai 2021 – Mar 2023)*
+  Aplicações empresariais e automação de fluxos para Bosch, Sicoob, Syngenta, Alvean e Ajinomoto.
 
 ---
 
-## 📫 Let's connect
+## 📚 Atualmente
+
+- 🎓 Pós-Graduação em **DevOps e Arquitetura Cloud** — FIAP (2026–2027)
+- 🔨 Construindo: **Pipeline ELT com Snowflake + dbt + Airflow**
+- 📖 Estudando: **Apache Airflow** e **AWS Solutions Architect Associate**
+- 🎯 Próxima certificação: **dbt Certified Developer**
+
+---
+
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juansrodrigues-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/juansrodrigues)
 [![Email](https://img.shields.io/badge/Email-juanrodrigues.eng@gmail.com-EA4335?style=flat&logo=gmail)](mailto:juanrodrigues.eng@gmail.com)
 
 ---
 
-*Open to fully remote opportunities in Data Engineering, Analytics Engineering, and Cloud/DevOps.*
+*Aberto a oportunidades remotas em Engenharia de Dados, Analytics Engineering e Cloud/DevOps.*
