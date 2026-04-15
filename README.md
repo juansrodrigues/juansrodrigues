@@ -1,66 +1,63 @@
-## 👋 Olá! Eu sou o Juan Rodrigues
+# Hi, I'm Juan 👋
 
-🎯 **Analista de Cibersegurança | Engenharia Elétrica | Automação e Dados**  
-🔐 Apaixonado por segurança da informação, com foco em defesa cibernética, análise de logs, SIEM e automação segura de processos.
-
-💼 Atualmente atuando com inovação tecnológica e análise de dados no setor de energia elétrica. Me preparando para tirar a certificaçao da Security+  
-🎓 Certificado pelo Google em Cybersecurity | Engenheiro Eletricista formado pela UFPI  
-📍 São Luís - MA, Brasil
+**Data Engineer** with experience in large-scale corporate environments, specializing in data pipelines, analytical modeling, and cloud infrastructure. Currently building public projects in the **modern data stack** (Snowflake · dbt · Airflow · AWS · Terraform).
 
 ---
 
-### 🛡️ Interesses em Cybersecurity
+## 🔧 Tech Stack
 
-- Segurança defensiva (Blue Team, SOC, SIEM)
-- Análise de vulnerabilidades e resposta a incidentes
-- Cloud Security e automação com Python
-- Frameworks como NIST e ISO/IEC 27001
+**Data**
+`SQL` `Snowflake` `dbt` `Apache Airflow` `Databricks` `ETL/ELT` `Dimensional Modeling` `AWS Athena` `AWS S3`
 
----
+**Cloud & DevOps**
+`AWS` `Docker` `Terraform` `Ansible` `Jenkins` `CI/CD` `Git` `Linux`
 
-### 🚀 Projetos em destaque
+**Programming**
+`Python` `Bash` `JavaScript` `Node.js` `PowerShell`
 
-- 🔍 **SIEM com Wazuh e análise de logs**
-- 🛠️ **Hardening de sistemas Linux com scripts Bash**
-- 📊 **Monitoramento automatizado com Power BI e Power Automate**
-- ⚙️ Em andamento: trilhas no TryHackMe e labs no Hack The Box
-
-*👉 Em breve: repositórios com cases simulando detecção de ataques, tratamento de alertas e automações de defesa!*
+**BI & Low-Code**
+`Power BI` `Power Apps` `Power Automate`
 
 ---
 
-### 🧰 Tecnologias
+## 🚀 Featured Projects
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="PowerBI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-</div>
+| Project | Stack | Status |
+|---|---|---|
+| [🔗 ELT Pipeline: Snowflake + dbt + Airflow](https://github.com/juansrodrigues/pipeline-elt-aneel) | Python · Snowflake · dbt · Airflow · AWS S3 | 🔨 Building |
+| [🔗 AWS Data Lake with Terraform](https://github.com/juansrodrigues/aws-datalake-terraform) | Terraform · AWS S3 · Lambda · Athena · IAM | 📋 Planned |
+| [🔗 Business Impact Analysis — Energy Sector](https://github.com/juansrodrigues/energy-data-analysis) | Python · SQL · Pandas · Power BI | 📋 Planned |
+| [🔗 Monitoring Stack: Docker + Ansible + Grafana](https://github.com/juansrodrigues/monitoring-stack) | Docker · Ansible · Prometheus · Grafana | 📋 Planned |
 
 ---
 
-### 📈 Estatísticas
+## 💼 Professional Background
 
-<div>
-  <a href="https://github.com/juanr-0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanr-0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanr-0&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
+- **Senior Data Analyst** @ Grupo Equatorial Energia *(Jan 2025 – Present)*
+  Led an analytical initiative that generated **BRL 4M in additional revenue** for Maranhão state through Snowflake + dbt solutions.
 
----
+- **Data & Analytics Trainee** @ Grupo Equatorial Energia *(Dec 2023 – Dec 2024)*
+  Built gamified KPI dashboards and automated operational monitoring routines.
 
-### 📬 Contato
-
-Entre em contato ou acompanhe meu desenvolvimento profissional:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juansrodrigues/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanrodrigues.eng@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srmelkor)
+- **Power Platform Developer / Consultant** @ Eng DTP & Multimídia *(May 2021 – Mar 2023)*
+  Enterprise apps and workflow automation for Bosch, Sicoob, Syngenta, Alvean, and Ajinomoto.
 
 ---
 
-![Snake animation](https://github.com/juanr-0/juanr-0/blob/output/github-contribution-grid-snake.svg)
+## 📚 Currently
+
+- 🎓 Graduate Degree in **DevOps & Cloud Architecture** — FIAP (2026–2027)
+- 🔨 Building: **ELT Pipeline with Snowflake + dbt + Airflow**
+- 📖 Studying: **Apache Airflow** and **AWS Solutions Architect Associate**
+- 🎯 Next cert: **dbt Certified Developer**
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juansrodrigues-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/juansrodrigues)
+[![Email](https://img.shields.io/badge/Email-juanrodrigues.eng@gmail.com-EA4335?style=flat&logo=gmail)](mailto:juanrodrigues.eng@gmail.com)
+
+---
+
+*Open to fully remote opportunities in Data Engineering, Analytics Engineering, and Cloud/DevOps.*
